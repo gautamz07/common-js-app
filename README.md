@@ -27,6 +27,7 @@ explain event loop in javascript
 
  * [Count frequence of characters in a string](https://stackoverflow.com/questions/18619785/counting-frequency-of-characters-in-a-string-using-javascript)
  * [How to get unique values in an array](https://stackoverflow.com/questions/11246758/how-to-get-unique-values-in-an-array)
+ * [Swap 2 values without temporary variable](https://medium.com/better-programming/how-swap-two-values-without-temporary-variables-using-javascript-8bb28f96b5f6)
 
 ### Algorithms
 
