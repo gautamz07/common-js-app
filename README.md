@@ -17,8 +17,8 @@ explain event loop in javascript
 
 ### Inheritence 
 
-[Inheritence in javascript](https://medium.com/@kevincennis/prototypal-inheritance-781bccc97edb)
-[MDN Inheritence and prototype chain](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain)
+* [Inheritence in javascript](https://medium.com/@kevincennis/prototypal-inheritance-781bccc97edb)
+* [MDN Inheritence and prototype chain](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain)
 
 ### Reference vs Value
 [Passing by Value vs. Reference](https://codeburst.io/javascript-passing-by-value-vs-reference-explained-in-plain-english-8d00fd06a47c)
