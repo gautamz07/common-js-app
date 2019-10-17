@@ -1,4 +1,4 @@
-#Closures
+# Closures
 
 is the below a closure 
 
@@ -11,6 +11,6 @@ function(a) {
 
 Are promises closures ?
 
-#Event loop
+# Event loop
 
 explain event loop in javascript
