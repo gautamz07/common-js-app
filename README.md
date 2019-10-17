@@ -14,3 +14,18 @@ function(a) {
 ### Event loop
 
 explain event loop in javascript
+
+### Inheritence 
+
+[Inheritence in javascript](https://medium.com/@kevincennis/prototypal-inheritance-781bccc97edb)
+[MDN Inheritence and prototype chain](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain)
+
+### Simple problem
+
+ *[Count frequence of characters in a string](https://stackoverflow.com/questions/18619785/counting-frequency-of-characters-in-a-string-using-javascript)
+ *[How to get unique values in an array](https://stackoverflow.com/questions/11246758/how-to-get-unique-values-in-an-array)
+
+### Algorithms
+
+[Bubble sort , Quick sort etc](https://khan4019.github.io/front-end-Interview-Questions/sort.html)
+
