@@ -22,8 +22,8 @@ explain event loop in javascript
 
 ### Simple problem
 
- *[Count frequence of characters in a string](https://stackoverflow.com/questions/18619785/counting-frequency-of-characters-in-a-string-using-javascript)
- *[How to get unique values in an array](https://stackoverflow.com/questions/11246758/how-to-get-unique-values-in-an-array)
+ * [Count frequence of characters in a string](https://stackoverflow.com/questions/18619785/counting-frequency-of-characters-in-a-string-using-javascript)
+ * [How to get unique values in an array](https://stackoverflow.com/questions/11246758/how-to-get-unique-values-in-an-array)
 
 ### Algorithms
 
